@@ -1,1 +1,1 @@
-My personal portfolio website Using Html, CSS, and JavaScript, with a beautiful user interface. It contains a Header, Home, About me, Skills, Projects, Contact and Footer and a option to toggle between dark mode and light mode.
+My personal portfolio website was crafted using HTML, CSS, and JavaScript, boasting an elegant user interface. It features a comprehensive structure comprising a Header, Home, About Me, Projects, Contact, and Footer sections, complemented by a convenient toggle between dark mode and light mode for user preference.
