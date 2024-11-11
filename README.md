@@ -9,12 +9,12 @@ Live Site: https://mactilda-personal-portfolio-website.vercel.app
 Frontend: HTML, CSS, JavaScript
 
 ## Features
-Home: A welcoming section.
-About: An overview of my background, with a brief introduction about myself.
-Education & Experience: Highlights of my educational background and relevant experiences.
-Projects: A showcase of my key projects, complete with descriptions and links.
-Contact: A Gmail link to allow visitors to reach out to me directly.
-Responsive Design: Fully responsive layout, optimized for mobile, tablet, and desktop viewing.
+1. Home: A welcoming section.
+2. About: An overview of my background, with a brief introduction about myself.
+3. Education & Experience: Highlights of my educational background and relevant experiences.
+4. Projects: A showcase of my key projects, complete with descriptions and links.
+5. Contact: A Gmail link to allow visitors to reach out to me directly.
+6. Responsive Design: Fully responsive layout, optimized for mobile, tablet, and desktop viewing.
 
 ## Contribution
 As this is a personal project, contributions are not required. However, feedback and suggestions are always welcome to help improve the website!
